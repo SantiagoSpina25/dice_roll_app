@@ -1,16 +1,3 @@
-# first_app
+# dice_roll_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta aplicación sencilla y dinámica simula el lanzamiento de un dado. En la pantalla principal se muestra una imagen de un dado y un botón debajo. Al presionar el botón, el dado cambia aleatoriamente a un nuevo valor entre 1 y 6, mostrando la imagen correspondiente.
